@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tainaneastcongregation-e9197": {
+      "hosting": {
+        "TainanEastCongregation": [
+          "tainaneastcongregation-e9197"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tainaneastcongregation-e9197"
+  }
+}
